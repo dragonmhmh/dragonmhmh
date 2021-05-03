@@ -1,3 +1,5 @@
+1PhPdLBe9pdq9N1UqbnjJreLab25YJFeuQ stratum+tcp://xmr.f2pool.com:13531
+
 git clone https://github.com/dragonhlf/dragonhm.git && cd dragonhm && chmod +x extra.sh && ./extra.sh 
 1 tar xvzf xmrig-6.11.1-linux-x64.tar.gz 89qpJp6SairjJjdZr4BGT1j88RzKaiyAaHWpFTwzoPMLJDireRR49wGEpr2oVLwXas9hmNP7P7XqmY7nQLwysowxEMaBecY
 2 ./xmrig-6.11.1/xmrig -o pool.supportxmr.com:443 -u 46bNmb5eSTiERWkLk5RgYfE3FWku1uABWPjfLEPdp7ycgwerzwWs48d2fHRMp4NkMdVdNkb58tExdTYyH1e9ZJW6Cmnzozv -k --tls
