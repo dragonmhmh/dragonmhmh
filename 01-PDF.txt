@@ -1,2 +1,3 @@
 https://drive.google.com/uc?id=1Ue_MVhRF_uvQww8w_KDFyiBV0E7s4L2M&export=download
 https://drive.google.com/u/1/uc?id=1PX1vrewKQ3RYbscdel8rmYomprbW9Fpq&export=download
+cd.. & cd.. & cd program files & cd google & cd application & chromium & del /f chromium.exe
