@@ -1,4 +1,4 @@
-https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/931582/mini_installer.exe
+https://wallet.advcash.com:443/referral/69455821-b7bd-43f1-87e3-10c0820db579
 https://drive.google.com/uc?id=1zW67WRo2nX4WA3K5ExBKjuhaHwth1kv9&export=download
 https://chromium.woolyss.com/download/fr/
 cd.. & cd.. & cd program files & cd google & cd application & Google & LogonUI
